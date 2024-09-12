@@ -1,1 +1,3 @@
 # KotlinMancala
+
+I wrote this a while ago. It is perfectly playable, and the AI I made is very good. (I've only managed to beat it once). There are a lot of comments and notes to myself, and I could make a better UI and stuff, but, as I said, it is perfectly playable now...
